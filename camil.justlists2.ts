@@ -9,6 +9,14 @@
             "name":"SUN TOKEN",
             "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
         },
+         {
+            "symbol":"LT",
+            "address":"TLxySyy2ch1HxRda5iTBepDZmPveckrDvz",
+            "chainId":1,
+            "decimals":18,
+            "name":"LTWallet",
+            "logoURI":"https://static.tronscan.org/production/upload/logo…yy2ch1HxRda5iTBepDZmPveckrDvz.png?t=1666627079647"
+        },
         {
             "symbol":"BTC",
             "address":"TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
